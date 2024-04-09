@@ -1,6 +1,6 @@
 # AudiobookRenamePS
 
-Scripts for audiobook collection renaming
+Powershell scripts for audiobook collection renaming
 
 ## How to Use
 
